@@ -1,0 +1,415 @@
+[
+  {
+    "name": "ChatGPT",
+    "link": "https://chat.openai.com",
+    "description": "AI-powered chatbot for Q&A, writing, and tutoring.",
+    "category": "Chatbot",
+    "pricing": "Freemium"
+  },
+  {
+    "name": "insta Doodle",
+    "link": "https://instadoodle.com/",
+    "description": "AI-powered tool for generating doodles and sketches.",
+    "category": "Art & Design",
+    "pricing": "Freemium"
+  },
+  {
+    "name": "Flaxxa AI",
+    "link": "https://flaxxa.com/ai-2/",
+    "description": "AI-powered tool for various creative tasks.",
+    "category": "Art & Design",
+    "pricing": "Freemium"
+  },
+  {
+    "name": "Deepseek Chat",
+    "link": "https://chat.deepseek.com/",
+    "description": "AI-powered chatbot for Q&A, writing, and tutoring.",
+    "category": "Chatbot",
+    "pricing": "Free"
+  },
+  {
+    "name": "Sketch Genius",
+    "link": "https://sketchgenius.com/",
+    "description": "AI-powered tool for generating and enhancing sketches.",
+    "category": "Art & Design",
+    "pricing": "Freemium"
+  },
+  {
+    "name": "Suno AI",
+    "link": "https://suno.com",
+    "description": "Generate music from text prompts.",
+    "category": "Audio",
+    "pricing": "Freemium"
+  },
+  {
+    "name": "Pika Labs",
+    "link": "https://pika.art",
+    "description": "Generate and edit videos with AI.",
+    "category": "Video Generation",
+    "pricing": "Freemium"
+  },
+  {
+    "name": "Humantalk",
+    "link": "https://humantalk.io/",
+    "description": "AI-powered tool for creating human-like conversations.",
+    "category": "Content Creation",
+    "pricing": "Freemium"
+  },
+  {
+    "name": "RemoveBG",
+    "link": "https://www.remove.bg/",
+    "description": "Removes image backgrounds using AI.",
+    "category": "Image",
+    "pricing": "Freemium"
+  },
+  {
+    "name": "Grammarly",
+    "link": "https://grammarly.com",
+    "category": "Writing Assistant",
+    "description": "Grammar, tone, and clarity suggestions for writing.",
+    "pricing": "Freemium"
+  },
+  {
+    "name": "Copy.ai",
+    "link": "https://copy.ai",
+    "category": "Marketing & Writing",
+    "description": "Generate marketing copy, product descriptions, and more.",
+    "pricing": "Freemium"
+  },
+  {
+    "name": "Writesonic",
+    "link": "https://writesonic.com",
+    "category": "Writing",
+    "description": "AI writing assistant for blog posts, ads, and emails.",
+    "pricing": "Freemium"
+  },
+  {
+    "name": "Jasper",
+    "link": "https://jasper.ai",
+    "category": "Content Creation",
+    "description": "AI content generator for teams and businesses.",
+    "pricing": "Paid"
+  },
+  {
+    "name": "Claude AI",
+    "link": "https://claude.ai",
+    "description": "Anthropic's conversational AI assistant focused on safety.",
+    "category": "Chatbot",
+    "pricing": "Free"
+  },
+  {
+    "name": "Gemini",
+    "link": "https://gemini.google.com",
+    "description": "Google's AI chatbot with deep integration with Google services.",
+    "category": "Chatbot",
+    "pricing": "Free"
+  },
+  {
+    "name": "Perplexity AI",
+    "link": "https://www.perplexity.ai/",
+    "category": "AI Search",
+    "description": "Conversational AI search engine and knowledge assistant.",
+    "pricing": "Free"
+  },
+  {
+    "name": "Runway ML",
+    "link": "https://runwayml.com",
+    "category": "Image/Video",
+    "description": "AI tools for video editing and image generation.",
+    "pricing": "Freemium"
+  },
+  {
+    "name": "Leonardo AI",
+    "link": "https://leonardo.ai",
+    "category": "Image Generation",
+    "description": "Create game assets and stunning artwork using AI.",
+    "pricing": "Freemium"
+  },
+  {
+    "name": "Midjourney",
+    "link": "https://www.midjourney.com",
+    "category": "Image Generation",
+    "description": "Text-to-image AI that creates stunning visuals.",
+    "pricing": "Paid"
+  },
+  {
+    "name": "ElevenLabs",
+    "link": "https://elevenlabs.io",
+    "description": "AI voice generator for realistic speech synthesis.",
+    "category": "Audio",
+    "pricing": "Freemium"
+  },
+  {
+    "name": "GitHub Copilot",
+    "link": "https://github.com/features/copilot",
+    "description": "AI pair programmer for code autocompletion.",
+    "category": "Development",
+    "pricing": "Paid"
+  },
+  {
+    "name": "Notion AI",
+    "link": "https://www.notion.so/product/ai",
+    "category": "Productivity",
+    "description": "AI features inside Notion for summarizing, writing, etc.",
+    "pricing": "Paid"
+  },
+  {
+    "name": "Tome",
+    "link": "https://tome.app",
+    "category": "Presentation",
+    "description": "AI-powered storytelling and slide generator.",
+    "pricing": "Freemium"
+  },
+  {
+    "name": "Durable",
+    "link": "https://durable.co",
+    "category": "Website Builder",
+    "description": "Build a website in 30 seconds using AI.",
+    "pricing": "Freemium"
+  },
+  {
+    "name": "Puzzle Labs",
+    "link": "https://puzzlelabs.ai",
+    "category": "Documentation",
+    "description": "AI-powered glossary and documentation assistant.",
+    "pricing": "Freemium"
+  },
+  {
+    "name": "Pollo AI",
+    "link": "https://pollo.ai/",
+    "category": "Art & Design",
+    "description": "AI-powered tool for various creative tasks.",
+    "pricing": "Freemium"
+  },
+  {
+    "name": "Final Round",
+    "link": "https://www.finalroundai.com/",
+    "category": "Interview Preparation",
+    "description": "AI-powered interview preparation tool.",
+    "pricing": "Freemium"
+  },
+  {
+    "name": "Poe by Quora",
+    "link": "https://poe.com",
+    "category": "Chatbot Hub",
+    "description": "Chat with multiple AI models like Claude, GPT-4, etc.",
+    "pricing": "Freemium"
+  },
+  {
+    "name": "Scribble Diffusion",
+    "link": "https://scribblediffusion.com",
+    "category": "Image Tool",
+    "description": "Turn sketches into refined images using AI.",
+    "pricing": "Free"
+  },
+  {
+    "name": "HeyGen",
+    "link": "https://www.heygen.com",
+    "description": "AI video creator with virtual avatars.",
+    "category": "Video Generation",
+    "pricing": "Freemium"
+  },
+  {
+    "name": "Otter.ai",
+    "link": "https://otter.ai",
+    "category": "Transcription",
+    "description": "Live transcription and meeting notes with AI.",
+    "pricing": "Freemium"
+  },
+  {
+    "name": "Lumen5",
+    "link": "https://lumen5.com",
+    "category": "Video Creation",
+    "description": "Turn text into engaging videos with AI.",
+    "pricing": "Freemium"
+  },
+  {
+    "name": "Pictory",
+    "link": "https://pictory.ai",
+    "category": "Video",
+    "description": "Convert long-form content into short videos using AI.",
+    "pricing": "Freemium"
+  },
+  {
+    "name": "Hugging Face",
+    "link": "https://huggingface.co",
+    "description": "Platform for AI models and datasets.",
+    "category": "Development",
+    "pricing": "Freemium"
+  },
+  {
+    "name": "Canva",
+    "link": "https://www.canva.com",
+    "category": "Design",
+    "description": "Graphic design tool with AI features for image editing.",
+    "pricing": "Freemium"
+  },
+  {
+    "name": "DALL-E 2",
+    "link": "https://openai.com/dall-e-2",
+    "category": "Image Generation",
+    "description": "Generate images from text prompts using OpenAI's DALL-E.",
+    "pricing": "Freemium"
+  },
+  {
+    "name": "Fotor",
+    "link": "https://www.fotor.com",
+    "category": "Image Editing",
+    "description": "AI-powered photo editing and design tool.",
+    "pricing": "Freemium"
+  },
+  {
+    "name": "DeepAI",
+    "link": "https://deepai.org",
+    "category": "AI Tools",
+    "description": "Access various AI models for image, text, and more.",
+    "pricing": "Freemium"
+  },
+  {
+    "name": "Kaiber",
+    "link": "https://kaiber.ai",
+    "category": "Video Creation",
+    "description": "AI video generation tool for creators.",
+    "pricing": "Freemium"
+  },
+  {
+    "name": "Descript",
+    "link": "https://descript.com",
+    "category": "Audio/Video Editing",
+    "description": "Edit videos and podcasts like a doc with AI help.",
+    "pricing": "Freemium"
+  },
+  {
+    "name": "DeepL Translator",
+    "link": "https://www.deepl.com",
+    "category": "Translation",
+    "description": "AI-powered translation tool with advanced language accuracy.",
+    "pricing": "Freemium"
+  },
+  {
+    "name": "Looka",
+    "link": "https://looka.com",
+    "category": "Logo Design",
+    "description": "Design your brand with AI-powered logo and branding tools.",
+    "pricing": "Paid"
+  },
+  {
+    "name": "Synthesia",
+    "link": "https://www.synthesia.io",
+    "category": "AI Video",
+    "description": "Create AI-generated talking head videos from text.",
+    "pricing": "Paid"
+  },
+  {
+    "name": "Cleanup.pictures",
+    "link": "https://cleanup.pictures",
+    "category": "Image Editing",
+    "description": "Remove unwanted objects from photos using AI.",
+    "pricing": "Free"
+  },
+  {
+    "name": "AI Dungeon",
+    "link": "https://play.aidungeon.io",
+    "category": "Gaming",
+    "description": "Text-based adventure game powered by AI.",
+    "pricing": "Freemium"
+  },
+  {
+    "name": "AI21 Studio",
+    "link": "https://studio.ai21.com",
+    "category": "AI Models",
+    "description": "Access to advanced AI models for text generation.",
+    "pricing": "Freemium"
+  },
+  {
+    "name": "AI Image Enlarger",
+    "link": "https://imglarger.com",
+    "category": "Image Enhancement",
+    "description": "Enhance and enlarge images using AI.",
+    "pricing": "Freemium"
+  },
+  {
+    "name": "Deep Dream Generator",
+    "link": "https://deepdreamgenerator.com",
+    "category": "Image Generation",
+    "description": "Create dream-like images using neural networks.",
+    "pricing": "Freemium"
+  },
+  {
+    "name": "AI Language Translator",
+    "link": "https://www.ailanguagetranslator.com",
+    "category": "Translation",
+    "description": "Translate text between multiple languages using AI.",
+    "pricing": "Freemium"
+  },
+  {
+    "name": "AI Voice Generator",
+    "link": "https://www.aivoicegenerator.com",
+    "category": "Voice Synthesis",
+    "description": "Generate realistic voiceovers using AI.",
+    "pricing": "Freemium"
+  },
+  {
+    "name": "AI Text Summarizer",
+    "link": "https://www.aitextsummarizer.com",
+    "category": "Text Processing",
+    "description": "Summarize long articles and documents using AI.",
+    "pricing": "Freemium"
+  },
+  {
+    "name": "Artistly AI",
+    "link": "https://artistly.ai/",
+    "category": "Content Creation",
+    "description": "Generate high-quality content using AI.",
+    "pricing": "Paid"
+  },
+  {
+    "name": "Video Express AI",
+    "link": "https://videoexpress.ai/",
+    "category": "Content Creation",
+    "description": "Generate high-quality video content using AI.",
+    "pricing": "Freemium"
+  },
+  {
+    "name": "PicsArt AI",
+    "link": "https://picsart.com/",
+    "category": "Content Creation",
+    "description": "Picsart’s ultimate creative suite with AI tools for image and video editing.",
+    "pricing": "Freemium"
+  },
+  {
+    "name": "AI Marketing Automation",
+    "link": "https://www.aimarketingautomation.com",
+    "category": "Marketing",
+    "description": "Automate marketing campaigns using AI.",
+    "pricing": "Freemium"
+  },
+  {
+    "name": "AI Recipe Generator",
+    "link": "https://www.airecipegenerator.com",
+    "category": "Cooking",
+    "description": "Generate recipes based on ingredients using AI.",
+    "pricing": "Freemium"
+  },
+  {
+    "name": "AI Brand Monitoring",
+    "link": "https://www.aibrandmonitoring.com",
+    "category": "Brand Management",
+    "description": "Monitor brand reputation and sentiment using AI.",
+    "pricing": "Freemium"
+  },
+  {
+    "name": "AI Affiliate Marketing",
+    "link": "https://www.aiaffiliatemarketing.com",
+    "category": "Affiliate Marketing",
+    "description": "Manage affiliate programs and partnerships using AI.",
+    "pricing": "Freemium"
+  },
+  {
+    "name": "AI Workforce Management",
+    "link": "https://www.aiworkforcemanagement.com",
+    "category": "Human Resources",
+    "description": "Manage workforce scheduling and productivity using AI.",
+    "pricing": "Freemium"
+  }
+]

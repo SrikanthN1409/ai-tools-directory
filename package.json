@@ -1,0 +1,22 @@
+{
+  "name": "ai-tools-directory",
+  "type": "module",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "dotenv": "^17.2.1",
+    "ejs": "^3.1.10",
+    "express": "^5.1.0",
+    "node-cron": "^4.2.1",
+    "node-fetch": "^3.3.2",
+    "nodemailer": "^7.0.5",
+    "openai": "^5.10.2"
+  }
+}
