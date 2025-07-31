@@ -420,6 +420,38 @@
     "pricing": "Freemium"
   },
   {
+    "name": "Veed AI Video",
+    "link": "https://www.veed.io/tools/ai-video",
+    "category": "Video Generation",
+    "description": "Generate and edit videos using AI.",
+    "pricing": "Freemium"
+  },{
+    "name": "DeepAI Video",
+    "link": "https://deepai.org/video",
+    "category": "Video and Animation Generation",
+    "description": "This AI video generator converts text to video, or image to video. Use it to convert images to animations. Or, Create videos from scratch from text!",
+    "pricing": "Freemium"
+  },{
+    "name": "Renderforest AI Video",
+    "link": "https://www.renderforest.com/ai-video-generator",
+    "category": "Animation video Generation",
+    "description": "Just type your idea and watch our AI generate top-quality videos for you.",
+    "pricing": "Freemium"
+  },{
+    "name": "Steve AI",
+    "link": "https://www.steve.ai/",
+    "category": "Video Creation",
+    "description": "AI Video Maker for Effortless Content Creation",
+    "pricing": "Freemium"
+  },
+  {
+    "name": "invideo AI Video Generator",
+    "link": "https://invideo.io/make/ai-video-generator/",
+    "category": "Video Creation",
+    "description": "Generate AI videos from simple text prompts",
+    "pricing": "Freemium"
+  },
+  {
     "name": "Sider AI chrome extension",
     "link": "https://sider.ai/apps/lp-chatgpt?source=b&p1=chatgpt&p2=search&msclkid=ca88f6cf2ebe129f79cb9e457ce233f4",
     "description": "Sider integrates iconic AI models into a single chatbot, like o4-mini, o3, GPT-4.1 mini, GPT-4.1, DeepSeek, Gemini and Claude.",
