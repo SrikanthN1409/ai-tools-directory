@@ -473,6 +473,13 @@
     "pricing": "Freemium"
   },
   {
+    "name": "Video creator AI",
+    "link": "https://videocreator.io/live/",
+    "category": "Content Creation",
+    "description": "Ideas Into World-Class Animated Videos For Any Goal In ALL Shapes, Topics & Languages at Record Speed!",
+    "pricing": "Paid"
+  },
+  {
     "name": "Sider AI chrome extension",
     "link": "https://sider.ai/apps/lp-chatgpt?source=b&p1=chatgpt&p2=search&msclkid=ca88f6cf2ebe129f79cb9e457ce233f4",
     "description": "Sider integrates iconic AI models into a single chatbot, like o4-mini, o3, GPT-4.1 mini, GPT-4.1, DeepSeek, Gemini and Claude.",
