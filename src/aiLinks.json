@@ -2,7 +2,7 @@
   {
     "name": "Sider AI",
     "link": "https://sider.ai",
-    "description": "Sider integrates iconic AI models into a single chatbot, like o4-mini, o3, GPT-4.1 mini, GPT-4.1, DeepSeek, Gemini and Claude.",
+    "description": "Sider integrates iconic AI models into a single chatbot, like GPT-4.1, DeepSeek, Gemini and Claude.",
     "category": "AI Tools",
     "pricing": "Freemium"
   },
@@ -449,6 +449,27 @@
     "link": "https://invideo.io/make/ai-video-generator/",
     "category": "Video Creation",
     "description": "Generate AI videos from simple text prompts",
+    "pricing": "Freemium"
+  },
+   {
+    "name": "HIX AI",
+    "link": "https://hix.ai/",
+    "category": "Content Creation",
+    "description": "HIX AI is different from your everyday ChatGPT alternative. This smart AI chat platform has everything you need.",
+    "pricing": "Freemium"
+  },
+    {
+    "name": "Talking Photos AI",
+    "link": "https://talkingphotos.ai/",
+    "category": "Content Creation",
+    "description": "Your Photos Can Now Talk, Sing & Dance shapeWith Perfect Body Movements, Lip-Sync & Emotions in All Languages!",
+    "pricing": "Paid"
+  },
+    {
+    "name": "Code Rabbit AI",
+    "link": "https://www.coderabbit.ai/",
+    "category": "Content Creation",
+    "description": "Code Rabbit AI is a most advanced AI code reviewer.Code Review Time & Bugs in Half Instantly",
     "pricing": "Freemium"
   },
   {
