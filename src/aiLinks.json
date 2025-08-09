@@ -480,6 +480,20 @@
     "pricing": "Paid"
   },
   {
+    "name": "Doodle Maker",
+    "link": "https://doodlemaker.com/go/",
+    "category": "Content Creation",
+    "description": "Futuristic Artificial Intelligence Technology Automatically Transforms Any Text or Content Into Colorful Doodle Videos In Any Language",
+    "pricing": "Paid"
+  },
+  {
+    "name": "clicksites.ai",
+    "link": "https://clicksites.ai/go/",
+    "category": "Content Creation",
+    "description": "ClickSites.AI is an AI-powered website builder that allows you to create websites in minutes.",
+    "pricing": "Paid"
+  },
+  {
     "name": "Sider AI chrome extension",
     "link": "https://sider.ai/apps/lp-chatgpt?source=b&p1=chatgpt&p2=search&msclkid=ca88f6cf2ebe129f79cb9e457ce233f4",
     "description": "Sider integrates iconic AI models into a single chatbot, like o4-mini, o3, GPT-4.1 mini, GPT-4.1, DeepSeek, Gemini and Claude.",
