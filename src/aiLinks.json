@@ -473,6 +473,13 @@
     "pricing": "Freemium"
   },
   {
+    "name": "hailuoai video",
+    "link": "https://hailuoai.video/",
+    "category": "Content Creation",
+    "description": "Transform Idea to Visual. Type your idea, click 'Create' to get a video.",
+    "pricing": "Freemium"
+  },
+  {
     "name": "Video creator AI",
     "link": "https://videocreator.io/live/",
     "category": "Content Creation",
