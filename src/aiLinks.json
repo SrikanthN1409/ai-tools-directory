@@ -22,7 +22,7 @@
   },
   {
     "name": "Flaxxa AI",
-    "link": "https://flaxxa.com/ai-2/",
+    "link": "https://flaxxa.com/ai/",
     "description": "AI-powered tool for various creative tasks.",
     "category": "Art & Design",
     "pricing": "Freemium"
@@ -385,13 +385,6 @@
     "pricing": "Freemium"
   },
   {
-    "name": "AI Marketing Automation",
-    "link": "https://www.aimarketingautomation.com",
-    "category": "Marketing",
-    "description": "Automate marketing campaigns using AI.",
-    "pricing": "Freemium"
-  },
-  {
     "name": "AI Recipe Generator",
     "link": "https://www.airecipegenerator.com",
     "category": "Cooking",
@@ -403,13 +396,6 @@
     "link": "https://www.aibrandmonitoring.com",
     "category": "Brand Management",
     "description": "Monitor brand reputation and sentiment using AI.",
-    "pricing": "Freemium"
-  },
-  {
-    "name": "AI Affiliate Marketing",
-    "link": "https://www.aiaffiliatemarketing.com",
-    "category": "Affiliate Marketing",
-    "description": "Manage affiliate programs and partnerships using AI.",
     "pricing": "Freemium"
   },
   {
