@@ -406,10 +406,17 @@
     "pricing": "Freemium"
   },
   {
-    "name": "Veed AI Video",
-    "link": "https://www.veed.io/tools/ai-video",
-    "category": "Video Generation",
-    "description": "Generate and edit videos using AI.",
+    "name": "AI Workforce Management",
+    "link": "https://www.aiworkforcemanagement.com",
+    "category": "Human Resources",
+    "description": "Manage workforce scheduling and productivity using AI.",
+    "pricing": "Freemium"
+  },
+  {
+    "name": "asseter AI",
+    "link": "https://asseter.ai/",
+    "category": "3D assets by picture",
+    "description": "Generate Find 3D assets by picture in seconds using AI.",
     "pricing": "Freemium"
   },{
     "name": "DeepAI Video",
