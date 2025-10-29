@@ -34,11 +34,18 @@
     "category": "Chatbot",
     "pricing": "Free"
   },
-  {
+   {
     "name": "Sketch Genius",
     "link": "https://sketchgenius.com/",
     "description": "AI-powered tool for generating and enhancing sketches.",
     "category": "Art & Design",
+    "pricing": "Freemium"
+  },
+  {
+    "name": "Replit",
+    "link": "https://replit.com/",
+    "description": "The most autonomous Agent for building production-ready Apps.",
+    "category": "App Builder",
     "pricing": "Freemium"
   },
   {
