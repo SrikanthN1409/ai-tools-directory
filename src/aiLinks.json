@@ -500,6 +500,41 @@
     "description": "ClickSites.AI is an AI-powered website builder that allows you to create websites in minutes.",
     "pricing": "Paid"
   },
+   {
+    "name": "Magai",
+    "link": "https://magai.co/",
+    "category": "AI Tools",
+    "description": "All-in-one interface giving access to 50+ different large-language models (LLMs) in one place, plus document/editor tools.",
+    "pricing": "Paid"
+  },
+  {
+    "name": "DronaHQ AI",
+    "link": "https://www.dronahq.com/ai/",
+    "category": "AI Tools",
+    "description": "A low-code/no-code app builder that integrates generative AI so you can build internal tools or dashboards by prompts.",
+    "pricing": "Paid"
+  },
+  {
+    "name": "Praktika AI",
+    "link": "https://praktika.ai/",
+    "category": "AI Tools",
+    "description": "An AI language-learning app that uses avatars, speech-to-text, role-play scenarios across many languages.",
+    "pricing": "Freemium"
+  },
+  {
+    "name": "PDFGear AI Editor",
+    "link": "https://www.pdfgear.com/ai-pdf-editor/",
+    "category": "AI Tools",
+    "description": "A PDF editing and AI chatting tool inside a PDF editor",
+    "pricing": "Free"
+  },
+  {
+    "name": "Quanda AI",
+    "link": "https://qanda.ai/en",
+    "category": "AI Tools",
+    "description": "An AI tutoring/maths problem-solving app (especially strong in Asia, mobile).",
+    "pricing": "Free"
+  },
   {
     "name": "Sider AI chrome extension",
     "link": "https://sider.ai/apps/lp-chatgpt?source=b&p1=chatgpt&p2=search&msclkid=ca88f6cf2ebe129f79cb9e457ce233f4",
