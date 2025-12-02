@@ -541,5 +541,12 @@
     "description": "Sider integrates iconic AI models into a single chatbot, like o4-mini, o3, GPT-4.1 mini, GPT-4.1, DeepSeek, Gemini and Claude.",
     "category": "AI Tools",
     "pricing": "Free"
+  },
+  {
+    "name": "wisprflow AI",
+    "link": "https://wisprflow.ai/",
+    "description": "The voice-to-text AI that turns speech into clear, polished writing in every app.",
+    "category": "AI Tools",
+    "pricing": "Freemium"
   }
 ]
