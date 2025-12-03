@@ -548,5 +548,19 @@
     "description": "The voice-to-text AI that turns speech into clear, polished writing in every app.",
     "category": "AI Tools",
     "pricing": "Freemium"
+  },
+  {
+    "name": "Sora2 AI",
+    "link": "https://sora2.studio/",
+    "description": "Sora 2 video generator with physics-accurate motion, synchronized audio, and realistic effects. Create stunning videos in seconds.",
+    "category": "AI Tools",
+    "pricing": "Freemium"
+  },
+  {
+    "name": "Kiro Dev AI",
+    "link": "https://kiro.dev/",
+    "description": "Kiro helps you do your best work by bringing structure to AI coding with spec-driven development.",
+    "category": "AI Tools",
+    "pricing": "Freemium"
   }
 ]
