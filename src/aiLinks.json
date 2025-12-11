@@ -55,6 +55,48 @@
     "category": "Audio",
     "pricing": "Freemium"
   },
+   {
+    "name": "Magic Studio",
+    "link": "https://magicstudio.com/",
+    "description": "Make beautiful imageswith the magic of AI",
+    "category": "AI Tools",
+    "pricing": "Freemium"
+  },
+  {
+    "name": "Feed Hive",
+    "link": "https://www.feedhive.com/",
+    "description": "Create content at scale. Social media using AI & Automation.",
+    "category": "AI Tools",
+    "pricing": "Freemium"
+  },
+  {
+    "name": "Later",
+    "link": "https://later.com/",
+    "description": "Unforgettable influencer marketing for legendary brands. AI-driven strategy, real data, and campaigns that break through.",
+    "category": "AI Tools",
+    "pricing": "Freemium"
+  },
+  {
+    "name": "Metricool",
+    "link": "https://metricool.com/",
+    "description": " AI social media assistant is ready to spark ideas.",
+    "category": "AI Tools",
+    "pricing": "Freemium"
+  },
+   {
+    "name": "Submagic",
+    "link": "https://www.submagic.co/",
+    "description": "Create viral shorts in seconds with AI.",
+    "category": "AI Tools",
+    "pricing": "Freemium"
+  },
+   {
+    "name": "Opus Pro",
+    "link": "https://www.opus.pro/",
+    "description": "AI that understands every pixel of your videos.",
+    "category": "AI Tools",
+    "pricing": "Freemium"
+  },
   {
     "name": "Pika Labs",
     "link": "https://pika.art",
