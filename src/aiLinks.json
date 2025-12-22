@@ -592,6 +592,55 @@
     "pricing": "Freemium"
   },
   {
+    "name": "Clone Voice",
+    "link": "https://clonevoice.ai/",
+    "description": "Clone, Dub, Create Music, Podcasts & Audio Books",
+    "category": "Content Creation",
+    "pricing": "Paid"
+  },
+  {
+    "name": "TubeBuddy",
+    "link": "https://www.tubebuddy.com/",
+    "description": "The ultimate YouTube growth tool",
+    "category": "Content Creation",
+    "pricing": "Freemium"
+  },
+  {
+    "name": "Mufr",
+    "link": "https://murf.ai/",
+    "description": "The Fastest, Most Efficient Text-to-Speech API for Building Voice Agents",
+    "category": "Chatbot",
+    "pricing": "Freemium"
+  },
+  {
+    "name": "Photopea",
+    "link": "https://www.photopea.com/",
+    "description": "Free Online Photo Editor",
+    "category": "Image Enhancement",
+    "pricing": "Free"
+  },
+   {
+    "name": "Nichesss",
+    "link": "https://nichesss.com/",
+    "description": "Generate long-form content (500 words and more) in seconds with AI.",
+    "category": "Writing Assistant",
+    "pricing": "Freemium"
+  },
+  {
+    "name": "KlingAI",
+    "link": "https://klingai.com/global/",
+    "description": "Generate high-quality video content using AI.",
+    "category": "Content Creation",
+    "pricing": "Freemium"
+  },
+  {
+    "name": "Animoto",
+    "link": "https://animoto.com/",
+    "description": "Generate high-quality video content using AI.",
+    "category": "Writing Assistant",
+    "pricing": "Freemium"
+  },
+  {
     "name": "Kiro",
     "link": "https://kiro.dev/",
     "description": "Kiro helps you do your best work by bringing structure to AI coding with spec-driven development.",
